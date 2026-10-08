@@ -45,8 +45,8 @@ model remembers the conversation. Responses are streamed back chunk by chunk.
 
 ![Sidebar](Screenshots/sidebar.png)
 
-![Error handling](Screenshots/error-handling.png)
-
 ![Long-Chat](Screenshots/longchat.png)
+
+![Error handling](Screenshots/error-handling.png)
 
 ![Models](Screenshots/models.png)
