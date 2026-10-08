@@ -41,6 +41,9 @@ at `http://localhost:11434`. The full message history is sent each time so the
 model remembers the conversation. Responses are streamed back chunk by chunk.
 
 ## Screenshots
-![Chat](screenshots/chat.png)
-![Sidebar](screenshots/sidebar.png)
-![Error handling](screenshots/error-handling.png)
+![Chat]
+(screenshots/chat.png)
+![Sidebar]
+(screenshots/sidebar.png)
+![Error handling]
+(screenshots/error-handling.png)
