@@ -4,12 +4,12 @@ A Streamlit web interface to chat with a locally hosted LLM running through Olla
 
 ## Features
 - Chat input and response area with streaming output
-- Conversation history panel
-- Reset conversation button
-- Model dropdown (fetched from Ollama's `/api/tags`)
-- Temperature slider
-- Download chat as a text file
-- Error handling when Ollama is not running
+- Conversation history panel.
+- Reset conversation button.
+- Model dropdown (fetched from Ollama's `/api/tags`).
+- Temperature slider.
+- Download chat as a text file.
+- Error handling when Ollama is not running.
 
 ## Tech stack
 Python, Streamlit, Requests, Ollama
